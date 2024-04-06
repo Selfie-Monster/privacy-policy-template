@@ -67,10 +67,10 @@ This Privacy Policy Template is licensed under the [GNU General Public License, 
 
 Arthur Garegnyan
 
-* Email: arthurgareginyan@gmail.com
+* Email: machadoluismendes@gmail.com
 
-* GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
+* GitHub: [https://github.com/luismendes070/](https://github.com/luismendes070/)
 
-* Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
+* Website: [https://luismendesmachadoblog.wordpress.com/](https://luismendesmachadoblog.wordpress.com/)
 
-* Donation: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
+
