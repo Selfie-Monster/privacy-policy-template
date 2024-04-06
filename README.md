@@ -65,7 +65,7 @@ This Privacy Policy Template is licensed under the [GNU General Public License, 
 
 ## Author
 
-Arthur Garegnyan
+Luis Mendes Machado
 
 * Email: machadoluismendes@gmail.com
 
